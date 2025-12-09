@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: book
-        image: prashasthnaik/simpphp:latest
+        image: prashasthnaik/phpbasic:latest
         ports:
         - containerPort: 80
